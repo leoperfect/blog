@@ -8,5 +8,5 @@
 ## 杂谈
 
 1. [NFS-mount 如何跨服务器文件挂载](https://github.com/leoperfect/blog/issues/1)
-
+2. [js的尾后逗号](https://github.com/leoperfect/blog/issues/6)
 
