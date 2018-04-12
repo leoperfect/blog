@@ -9,4 +9,5 @@
 
 1. [NFS-mount 如何跨服务器文件挂载](https://github.com/leoperfect/blog/issues/1)
 2. [js的尾后逗号](https://github.com/leoperfect/blog/issues/6)
-
+3. [如何科学上网](https://github.com/leoperfect/blog/issues/7)
+4. [webpack多环境(dev stg prd qa)该如何打包](https://github.com/leoperfect/blog/issues/8)
