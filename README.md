@@ -11,3 +11,5 @@
 2. [js的尾后逗号](https://github.com/leoperfect/blog/issues/6)
 3. [如何科学上网](https://github.com/leoperfect/blog/issues/7)
 4. [webpack多环境(dev stg prd qa)该如何打包](https://github.com/leoperfect/blog/issues/8)
+5. [linux创建用户并添加到sudo用户组中](https://github.com/leoperfect/blog/issues/9)
+6. [数据库事务的隔离级别](https://github.com/leoperfect/blog/issues/10)
