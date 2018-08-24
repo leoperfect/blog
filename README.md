@@ -16,3 +16,4 @@
 7. [如何在mac的home目录下创建文件](https://github.com/leoperfect/blog/issues/12)
 8. [进程、线程、协程到底是个什么东西？](https://github.com/leoperfect/blog/blob/master/principle-of-computer/进程、线程、协程到底是个什么东西？.md)
 9. [如何在终端查看图片？](https://github.com/leoperfect/blog/blob/master/principle-of-computer/如何在终端查看图片？.md)
+9. [hashmap == 菜鸟驿站？](https://github.com/leoperfect/blog/blob/master/principle-of-computer/hashmap == 菜鸟驿站？.md)
